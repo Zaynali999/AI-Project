@@ -6,3 +6,7 @@ hope for the best to come for myself and my mates as well
 
 
 
+##Umer Abdullah 
+I am not good at introductions and believe that we all should have a personality that can speak for itself.
+i am a professional amazon seller and also doing drop shipping on amazon
+CIAO to all the members of my group 
