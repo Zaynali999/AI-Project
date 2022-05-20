@@ -1,5 +1,5 @@
 # AI-Project
 AI project
-##RafayRehman 
-i performed algortihm for naive bayes (laplace smoothing) and used python library 
-![image](https://user-images.githubusercontent.com/57977041/169621574-fdc6ba0f-e0ff-48dd-9696-f1b70d5cac44.png)
+##HasanTayyab 
+i performed algortihm for perception and used python library 
+![image](https://user-images.githubusercontent.com/74775437/169622862-7b5591e7-10a1-4339-a68f-6c9b6d15e653.png)
