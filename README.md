@@ -7,7 +7,8 @@ This is Hassan Tayyab student of BsCs in Paf-Kiet North Campus. i performed algo
 
 ##Rafay Rehman
 i performed algortihm for naive bayes (laplace smoothing) and used python library 
-![image](https://user-images.githubusercontent.com/74775437/169623114-d5a73780-d896-41e4-9097-0a368d875c2e.png)
+![image](https://user-images.githubusercontent.com/57977041/169717704-42beb93d-de9f-4614-824e-dd1a292001b1.png)
+
 
 
 ##UmerAbdullah
