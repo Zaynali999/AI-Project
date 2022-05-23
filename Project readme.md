@@ -6,6 +6,8 @@ The results have improved before the accuracy was 58% which increased to 62%
 ![Capture1](https://user-images.githubusercontent.com/57977041/169718603-6ee5595e-64d1-4ce2-a4bf-7f38c432ce17.PNG)
 ![Capture3](https://user-images.githubusercontent.com/57977041/169718607-85e2ff9c-d55e-4590-ab4f-05d77f221920.PNG)
 ![image](https://user-images.githubusercontent.com/57977041/169718705-38556aa9-cf5c-401b-a245-05af69a181d8.png)
+![image](https://user-images.githubusercontent.com/57977041/169724768-7cc2d7c9-6ea3-4ed0-9447-6f2aa9729433.png)
+
 
 
 
