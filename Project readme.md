@@ -29,8 +29,10 @@ I utilized the google search and youtube to realize which model could be best fo
 precision we have in KNN by executing above boundaries and procedures And take the mean of 5 consective
 upsides of cross validation.But KNN does'nt give great outcome on huge datasets . 
 
-[umer](https://user-images.githubusercontent.com/66125719/169724531-2fd64f44-b598-4e64-b608-21203fc1eeed.PNG)
+![umer](https://user-images.githubusercontent.com/66125719/169724531-2fd64f44-b598-4e64-b608-21203fc1eeed.PNG)
 ![umer2](https://user-images.githubusercontent.com/66125719/169724534-d31c1cd6-8d01-4911-9a3d-770bba2f43db.PNG)
 ![umer3](https://user-images.githubusercontent.com/66125719/169724536-237948f4-a1bb-408f-bbe0-a55e07aee171.PNG)
 ![umer4](https://user-images.githubusercontent.com/66125719/169724539-1dcb1e5d-1fdd-4b6a-b94c-6194302e02f7.PNG)
+![image](https://user-images.githubusercontent.com/66125719/169724677-eb6498b1-088e-47de-96b3-7bc7fde5af5b.png)
+
 
